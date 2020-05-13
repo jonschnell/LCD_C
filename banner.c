@@ -1,8 +1,8 @@
 /// Simple 'Hello, world' program
 /**
  * This program prints "Hello, world" to the LCD screen
- * @author Chad Nelson
- * @date 06/26/2012
+ * @author Jon Schnell
+ * @date 01/10/2020
  *
  * updated: phjones 9/3/2019
  * Description: Added timer_init call, and including Timer.h
